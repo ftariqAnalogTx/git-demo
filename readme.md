@@ -1,1 +1,1 @@
-This is a test for git flow
+This is a test for GitHub flow
